@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Clone-GIT\\ContadorCliques\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "E:\\Clone-GIT\\ContadorCliques\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "E:\\Clone-GIT\\ContadorCliques\\WebApplication1\\ContadorCliques\\ContadorCliques.csproj",
+      "projectName": "ContadorCliques",
+      "projectPath": "E:\\Clone-GIT\\ContadorCliques\\WebApplication1\\ContadorCliques\\ContadorCliques.csproj",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "E:\\Clone-GIT\\ContadorCliques\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "E:\\Clone-GIT\\ContadorCliques\\WebApplication1\\ContadorCliques\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",
