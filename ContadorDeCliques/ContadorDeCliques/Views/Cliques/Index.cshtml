@@ -1,0 +1,13 @@
+@model ContadorDeCliques.Models.ContadorModel
+
+@{
+    ViewData["Title"] = "Contador de Cliques";
+}
+
+<h1>Contador de Cliques</h1>
+
+<p>Quantidade de cliques: <strong>@Model.Cliques</strong></p>
+
+<form asp-action="Contar" method="post">
+    <button type="submit" class="btn btn-primary">Clique para Contar</button>
+</form>
